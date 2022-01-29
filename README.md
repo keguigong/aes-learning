@@ -25,5 +25,9 @@
 
 ***TLS***
 
-- [传输层安全性协议-Wipipedia](https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A)
+- [传输层安全性协议-Wikipedia](https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E6%80%A7%E5%8D%94%E5%AE%9A)
 - [X.509-Wikipedia](https://zh.wikipedia.org/wiki/X.509)
+- [OpenSSL 与 SSL 数字证书概念贴](https://segmentfault.com/a/1190000002568019)
+- [HTTPS详解一：附带最精美详尽的 HTTPS 原理图](https://segmentfault.com/a/1190000021494676)
+- [HTTPS详解二：SSL / TLS 工作原理和详细握手过程](https://segmentfault.com/a/1190000021559557)
+- [中间人攻击-Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%94%BB%E5%87%BB)
